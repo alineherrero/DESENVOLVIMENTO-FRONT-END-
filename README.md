@@ -1,11 +1,13 @@
                                                       Projetos de Front-End
 
 Bem-vindo(a)!
+
 Este repositório reúne os projetos desenvolvidos durante a disciplina Front-End, explorando a criação de interfaces modernas, responsivas e interativas.
 Aqui estão minhas práticas com HTML, CSS, JavaScript e Bootstrap, registrando minha evolução no desenvolvimento web.
 
     🎨 Tecnologias e Conceitos Trabalhados
 🧱 HTML5
+
 Estruturação semântica
 
 Organização de conteúdo
@@ -13,6 +15,7 @@ Organização de conteúdo
 Boas práticas de marcação
 
 🎨 CSS3
+
 Estilização de páginas
 
 Layouts responsivos
@@ -22,6 +25,7 @@ Flexbox e Grid
 Animações e efeitos
 
 ⚡ JavaScript
+
 Eventos
 
 Interatividade
@@ -29,6 +33,7 @@ Interatividade
 Lógica aplicada ao front-end
 
 📦 Bootstrap
+
 Componentes prontos
 
 Sistema de grid
