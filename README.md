@@ -36,5 +36,7 @@ Criação rápida de layouts responsivos
     🛠️ Como Executar os Projetos
 
 Abra a pasta do projeto desejado
+
 Execute o arquivo index.html no navegador
+
 Caso use JavaScript, verifique também os arquivos .js relacionados
